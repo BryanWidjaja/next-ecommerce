@@ -1,13 +1,13 @@
-"use client"
+// "use client"
 
 import Slider from "@/components/Slider"
 import ProductList from '../components/ProductList';
 import CategoryList from "@/components/CategoryList";
 import ListPage from '../components/ListPage';
 import { useContext, useEffect, Suspense } from "react";
-import { WixClientContext } from "@/context/wixContext";
-import { useWixClient } from "@/hooks/useWixClient";
-import { wixClientServer } from "@/lib/wixClientServer";
+// import { WixClientContext } from "@/context/wixContext";
+// import { useWixClient } from "@/hooks/useWixClient";
+// import { wixClientServer } from "@/lib/wixClientServer";
 
 const HomePage = () => {
 

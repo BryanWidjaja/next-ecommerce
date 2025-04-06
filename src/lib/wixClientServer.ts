@@ -1,7 +1,7 @@
 import { OAuthStrategy, createClient } from "@wix/sdk";
 import { collections, products } from "@wix/stores";
 
-import { cookies } from "next/headers";
+// import { cookies } from "next/headers";
 
 //import { orders } from "@wix/ecom;
 //import { members } from '@wix/members';
